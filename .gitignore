@@ -7,6 +7,9 @@
 /npm-debug.log
 /.pnp
 .pnp.js
+/data
+/.vscode
+/MISC_neuronalNetworkSoccer
 
 # testing
 /coverage
